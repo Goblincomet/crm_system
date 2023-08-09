@@ -34,13 +34,12 @@ No beta version yet 🔮
 - [`Python 3.6 or higher`](https://www.python.org/downloads/)
 - [`PyQt5`](https://pypi.org/project/PyQt5/)
 - [`Screeninfo`](https://pypi.org/project/screeninfo/)
-- [`Wydbid`](https://github.com/NiklasWyld/Wydbid) or [`Git`](https://git-scm.com/downloads)
-
+- [`Wydbid`](https://github.com/Goblincomet/crm_system)
 #### Startup
 
 - **If you use Git:** `git clone https://github.com/NiklasWyld/Wydbid.git` **Else:** You have to download the repository
 - Open a terminal
-- Then navigate there to the downloaded Wydbid folder (`cd Wydbid` or `cd Wydbid-main`)
+- Then navigate there to the downloaded crm_system folder (`cd crm_system` or `cd crm_system-main`)
 - Install the required packages with `pip install -r requirements.txt`
 - Then just open Wydbid using your terminal (`python3 Wydbid.py`)
 - Now Wydbid should open and you can start creating companies and employees and set it up the way you want.
@@ -66,7 +65,7 @@ No beta version yet 🔮
 
 ### Report bugs 🐞
 
-If you find bugs, please contact `niklaspeter123#7578` on Discord.
+If you find bugs, please contact `Lovelycode` on Discord.
 
 ### License 📜
 
